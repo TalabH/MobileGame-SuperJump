@@ -15,7 +15,7 @@
 Tech Stack :computer: | Description :clipboard:
     --- | ---
     C# scripting | programming languag used to generate all game logic and touch screen functionality
-    Monodevelop IDE | unity 3D IDE
+    Visual Studio 2015 | unity 3D IDE
     Unity3D physics game Engine | main game engine script handling & art integration
     Adobe photoshop | textures
     Adobe After effects | post production & trailer
