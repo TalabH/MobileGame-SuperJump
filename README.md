@@ -3,7 +3,7 @@
   </head>
   <body>
     :video_game: Gamify Studios - Mobile Game App - C# & Unity 3D <br>
-    This is the first mobile game application my startup "Gamify Studios" released summer '15. <br><br>
+    This is the first mobile game released summer '15. <br><br>
     Screenshots <i>(Click images to watch a trailer)</i> <br>
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=o2_uT8qcJys" 
     target="_blank"><img src="https://cdn.apkmonk.com/images/com.GamifyStudios.SuperHeroJump.png" 
